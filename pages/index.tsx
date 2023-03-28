@@ -515,7 +515,7 @@ const Home: React.FC<HomeProps> = ({ serverSideApiKeyIsSet }) => {
   return (
     <>
       <Head>
-        <title>7Yan-AI-webhook-IP by Chatbot UI</title>
+        <title>7Yan-AI-webhook-IP1 by Chatbot UI</title>
         <meta name="description" content="ChatGPT but better." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
