@@ -162,7 +162,7 @@ export const ChatInput: FC<Props> = ({
           rel="noreferrer"
           className="underline"
         >
-          ChatBot UI
+          7Yan-AI by ChatBot UI
         </a>
         .{' '}
         {t(

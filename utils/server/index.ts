@@ -29,6 +29,7 @@ export const OpenAIStream = async (
       ],
       max_tokens: 1000,
       temperature: 1,
+      //腾讯云转发代理不支持流传输
       stream: true,
     }),
   });
